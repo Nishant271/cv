@@ -1,0 +1,65 @@
+.TD {
+    background-color: #a7e9af;
+    
+    
+  
+  
+
+}
+.MD {
+    
+  
+
+}
+.LD {
+    
+  
+  
+  
+
+}
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.65em;
+}
+span{
+  text-decoration: underline;
+}
+body
+{
+  text-align: center;
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+.Bcloud{
+  position: absolute;
+
+}
+.tcloud{
+  margin: 20px auto auto 300px ;
+  position: relative;
+}
+p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 0.5cm;
+}
+.DP {
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+}
+h2,h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: red  ;
+}
+hr {
+  background-color: none;
+    border-style: dotted none none;
+    border-color: tomato;
+    border-width: 2px;
+}
+#sub {
+  font-family: 'Caveat', cursive;
+  font-size: 2em;
+}
